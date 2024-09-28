@@ -54,8 +54,7 @@ This is a simple blog application built with Django. The application allows user
     ```
 6.  **Access the application**: 
    Open your web browser and go to `http://127.0.0.1:8000/`.
-Usage
------
+## Usage
 
 ### Creating and Editing Blog Posts
 
